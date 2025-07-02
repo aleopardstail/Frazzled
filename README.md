@@ -7,3 +7,4 @@ Episode 4:         Controlling the LEDs with an interlock option
 Episode 5:         The working code as edited during the video - servo motor moving in response to button presses
 Episode 5 slow:    code moving the servo slowly
 Episode 5 fast:    code moving the servo quickly
+Episode 6:         driving a relay
