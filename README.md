@@ -8,3 +8,4 @@ Episode 5:         The working code as edited during the video - servo motor mov
 Episode 5 slow:    code moving the servo slowly
 Episode 5 fast:    code moving the servo quickly
 Episode 6:         driving a relay
+Episode 7:         read an analogue sensor and add a second interlock function
