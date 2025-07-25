@@ -17,3 +17,4 @@ Episode 7:         read an analogue sensor and add a second interlock function
 
 Episode 8:         Adding a liquid crystal display screen
 
+speed_test:        Code to run the speed profiling, assumes a linux system, edit "cred.h" with MQTT details
