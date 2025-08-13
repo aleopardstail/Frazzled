@@ -19,4 +19,8 @@ Episode 8:         Adding a liquid crystal display screen
 
 Episode 9:        PCF8574 8 bit port expander using the I2C bus - Mooooorrrrr pins!
 
+Episode 10:        No code for this episode
+
+Episode 11:        Rotary Encoder!
+
 speed_test:        Code to run the speed profiling, assumes a linux system, edit "cred.h" with MQTT details
