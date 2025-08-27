@@ -24,3 +24,5 @@ Episode 10:        No code for this episode
 Episode 11:        Rotary Encoder!
 
 speed_test:        Code to run the speed profiling, assumes a linux system, edit "cred.h" with MQTT details
+
+LeopardStreetBoardD_V2    Code used to run one of the Leopard Street Board Controllers, shows interfacing to MQTT and a PCF8575. presented as an example only, this uses custom libraries that will be presented later for servo control
