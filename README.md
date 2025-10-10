@@ -25,6 +25,8 @@ Episode 11:        Rotary Encoder!
 
 Episode 12:        SK6812RGBW LED example for building lighting
 
+Episode 17:        NmraDcc library based AtTiny85 DCC function decoder - basic code & circuit diagram
+
 speed_test:        Code to run the speed profiling, assumes a linux system, edit "cred.h" with MQTT details
 
 LeopardStreetBoardD_V2    Code used to run one of the Leopard Street Board Controllers, shows interfacing to MQTT and a PCF8575. presented as an example only, this uses custom libraries that will be presented later for servo control
