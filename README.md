@@ -38,3 +38,7 @@ speed_test:        Code to run the speed profiling, assumes a linux system, edit
 LeopardStreetBoardD_V2    Code used to run one of the Leopard Street Board Controllers, shows interfacing to MQTT and a PCF8575. presented as an example only, this uses custom libraries that will be presented later for servo control
 
 LeopardStreetBoardI_V2    Code for the ESP32, as described in episode 155
+
+PCA9685_servo_controller    my custom servo driver library to talk to the PCA9685
+
+PCA9685_servo               a servo object that talks to the servo controller and provides a nicer interface
